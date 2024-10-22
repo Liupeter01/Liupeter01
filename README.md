@@ -1,5 +1,5 @@
 ### Hi there 👋 This is Jonathan Liu!
-- 🔭 I’m currently working on [FullStackChatDemo](https://github.com/Liupeter01/FullStackChattingDemo), a real-time chat application.
+- 🔭 I’m currently working on [FullStackChatDemo](https://github.com/Liupeter01/FullStackChattingDemo), a real-time chatting application.
 - 🌱 I’m currently learning NodeJS
 - 🎓 I'm a college student major in computer science :)
 - 📫 How to reach me: Liupeter012001@gmail.com or https://www.linkedin.com/in/jonathan-liu-501b77288/
