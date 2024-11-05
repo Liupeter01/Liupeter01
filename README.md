@@ -8,3 +8,14 @@
 
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liupeter01&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Liupeter01&layout=compact&count_private=true&theme=dark)
+
+### Skills
+<p>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" style="border-radius:50%;"/>
+</p>
