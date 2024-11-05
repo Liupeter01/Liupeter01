@@ -23,5 +23,5 @@
 </p>
 
 ### 📫 How to reach me
-![E-mail](Liupeter012001@gmail.com)
-![Linkedln](https://www.linkedin.com/in/jonathan-liu-501b77288/)
+![](Liupeter012001@gmail.com)
+![](https://www.linkedin.com/in/jonathan-liu-501b77288/)
