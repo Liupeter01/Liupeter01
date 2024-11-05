@@ -13,6 +13,9 @@
 <p>
     <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" style="border-radius:50%;"/>
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/000000/c.png" alt="C" width="40" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming" style="border-radius:50%;"/>
+    <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo" style="border-radius:50%;"/>
     <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="40" style="border-radius:50%;"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" style="border-radius:50%;"/>
     <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" width="40" style="border-radius:50%;"/>
