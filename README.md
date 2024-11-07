@@ -1,6 +1,7 @@
 ### Hi there 👋 This is Jonathan Liu!
 - 🔭 I’m currently working on [FullStackChatDemo](https://github.com/Liupeter01/FullStackChattingDemo), a real-time chatting application.
 - 🌱 I’m currently learning NodeJS
+- 📫 How to reach me: Liupeter012001@gmail.com or https://www.linkedin.com/in/jonathan-liu-501b77288/
 - 🎓 I'm a college student major in computer science :)
 - 🕵 Take a look at my repositories and let's get in touch!
 - 🎵 By the way, I love music, so I'm a big fan of Baby Blue!
@@ -21,7 +22,3 @@
     <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" style="border-radius:50%;"/>
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" style="border-radius:50%;"/>
 </p>
-
-### 📫 How to reach me
-![E-mail](Liupeter012001@gmail.com)
-![Linkedln](https://www.linkedin.com/in/jonathan-liu-501b77288/)
