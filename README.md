@@ -6,6 +6,7 @@
 - 🕵 Take a look at my repositories and let's get in touch!
 - 🎵 By the way, I love music, so I'm a big fan of Baby Blue!
 
+![Jonathan's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github)
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liupeter01&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Liupeter01&layout=compact&count_private=true&theme=dark)
 
