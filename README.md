@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jonathan Liu</h1>
 <h3 align="center">A passionate Backend developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=liupeter01" alt="liupeter01" /></a> </p>
 
 - 🔭 I’m currently working on [FullStackChatDemo](https://github.com/Liupeter01/FullStackChattingDemo)
   
@@ -25,4 +24,5 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github" alt="liupeter01" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&locale=en" alt="liupeter01" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&locale=en&layout=compact" alt="liupeter01" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=liupeter01" alt="liupeter01" /></p>
 
