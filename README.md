@@ -34,4 +34,3 @@
 
 
 ![Jonathan's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Liupeter01)](https://github.com/Liupeter01/github-profile-trophy)
