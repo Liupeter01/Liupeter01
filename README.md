@@ -9,6 +9,8 @@
 ![Jonathan's GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github)
 ![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liupeter01&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Liupeter01&layout=compact&count_private=true&theme=dark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Liupeter01)](https://github.com/Liupeter01/github-profile-trophy)
+
 
 ### Skills
 <p>
