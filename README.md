@@ -27,5 +27,4 @@
 <p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github" alt="liupeter01" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&locale=en&layout=compact" alt="liupeter01" /></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&locale=en" alt="liupeter01" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=liupeter01&" alt="liupeter01" /></p>
 
