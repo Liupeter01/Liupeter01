@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [FullStackChatDemo](https://github.com/Liupeter01/FullStackChattingDemo)
   
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **NodeJS, AWS**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
   
-- 💬 Ask me about **Boost Asio, Qt**
+- 💬 Ask me about **Boost, Qt, SIMD, HPC**
   
 - 📫 How to reach me **Liupeter012001@gmail.com**
   
