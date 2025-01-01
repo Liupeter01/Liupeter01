@@ -2,13 +2,13 @@
 <h3 align="center">A passionate Backend developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
-- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development)
+- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development) and [Software-Rasterizer](https://github.com/Liupeter01/Software-Rasterizer)
   
 - 🌱 I’m currently learning **NodeJS, AWS**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
   
-- 💬 Ask me about **Boost, Qt, SIMD, HPC**
+- 💬 Ask me about **Boost, Qt, HPC, Computer Graphics, OpenGL**
   
 - 📫 How to reach me **Liupeter012001@gmail.com**
   
