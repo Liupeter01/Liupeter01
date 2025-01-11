@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan Liu</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Lau</h1>
 <h3 align="center">A passionate Backend developer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
