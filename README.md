@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan SMith</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Smith</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
@@ -12,7 +12,7 @@
   
 - 📫 How to reach me **Liupeter012001@gmail.com**
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-liu-501b77288/](https://www.linkedin.com/in/jonathan-smith-501b77288/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-smith-501b77288/](https://www.linkedin.com/in/jonathan-smith-501b77288/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
