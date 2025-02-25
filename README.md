@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Jonathan Lau</h1>
-<h3 align="center">A passionate Backend developer from Australia</h3>
+<h1 align="center">Hi 👋, I'm Jonathan SMith</h1>
+<h3 align="center">A passionate Software Engineer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
 - 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development) and [Software-Rasterizer](https://github.com/Liupeter01/Software-Rasterizer)
   
-- 🌱 I’m currently learning **NodeJS, AWS**
+- 🌱 I’m currently learning **Photon mapping**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
   
@@ -12,11 +12,11 @@
   
 - 📫 How to reach me **Liupeter012001@gmail.com**
   
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-liu-501b77288/](https://www.linkedin.com/in/jonathan-liu-501b77288/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-liu-501b77288/](https://www.linkedin.com/in/jonathan-smith-501b77288/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jonathan-liu-501b77288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-liu-501b77288/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jonathan-liu-501b77288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jonathan-smith-501b77288/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
