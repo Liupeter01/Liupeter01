@@ -10,7 +10,7 @@
   
 - 💬 Ask me about **Boost, Qt, HPC, Computer Graphics, OpenGL**
   
-- 📫 How to reach me **Liupeter012001@gmail.com**
+- 📫 How to reach me **jonathansmithlau@gmail.com**
   
 - 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-smith-501b77288/](https://www.linkedin.com/in/jonathan-smith-501b77288/)
 
