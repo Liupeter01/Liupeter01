@@ -1,18 +1,14 @@
-<h1 align="center">Hi 👋, I'm Jonathan Smith</h1>
+<h1 align="center">Hi 👋, I'm JS</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
-- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development) and [Software-Rasterizer](https://github.com/Liupeter01/Software-Rasterizer)
+- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development) and [Software-Rasterizer](https://github.com/Liupeter01/Software-Rasterizer) and [libHPC](https://github.com/Liupeter01/libHPC)
   
 - 🌱 I’m currently learning **Photon mapping**
   
 - 👨‍💻 All of my projects are available at [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
   
 - 💬 Ask me about **Boost, Qt, HPC, Computer Graphics, OpenGL**
-  
-- 📫 How to reach me **jonathansmithlau@gmail.com**
-  
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonathan-smith-501b77288/](https://www.linkedin.com/in/jonathan-smith-501b77288/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
