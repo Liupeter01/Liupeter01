@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Australia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="liupeter01" /> </p>
 
-- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development), [coreforge](https://github.com/Liupeter01/coreforge), [Vulkan-Platform](https://github.com/Liupeter01/Vulkan-Platform)
+- 🔭 I’m currently working on [Distributed-Instant-Messaging-System-Development](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development), [libHPC](https://github.com/Liupeter01/libHPC) (Public Preview; Core updates are Private), [Vulkan-Platform](https://github.com/Liupeter01/Vulkan-Platform)
   
 - 🌱 I’m currently learning **Photon mapping**
   
