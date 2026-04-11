@@ -9,7 +9,7 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
 
 - 🔭 Currently working on:
   - **Vulkan-Platform** — Modern C++17 Vulkan 1.3 rendering engine with multi-queue async submission, GPU-driven particles, and Nsight-driven optimizations
-  - **libHPC** (Technical Preview, Archived for reference; Active development continues privately) — SIMD + CUDA + lock-free high-performance library (active development continues privately)
+  - **libHPC** (Technical Preview, Archived for reference) — SIMD + CUDA + lock-free high-performance library (active development continues privately)
   - **Distributed Instant Messaging System** — Full-stack C++17 system with Boost.Asio + gRPC
 
 - 🌱 Currently learning **Photon Mapping**
