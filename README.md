@@ -1,24 +1,36 @@
 <h1 align="center">Hi 👋, I'm L00pback4o4</h1>
 <h3 align="center">A passionate Software Engineer from Australia</h3>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/liupeter01?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/liupeter01?label=Stars&style=social" alt="stars" />
 </p>
+
 ---
+
 ### About Me
-Passionate about **low-level systems, real-time rendering, and extreme performance optimization**.
+
+Passionate about **low-level systems, real-time rendering, and extreme performance optimization**.  
 I build from hardware memory hierarchy, cache behavior, and lock-free structures all the way up to **Vulkan 1.3 multi-queue asynchronous engines**, custom GPU kernels, and CPU vectorized path tracers.
+
 - 🔭 Currently working on:
   - **Vulkan-Platform** — Modern C++17 Vulkan 1.3 rendering engine with multi-queue async submission, GPU-driven particles, and Nsight-driven optimizations
   - **libHPC** (Technical Preview, Archived for reference) — SIMD + CUDA + lock-free high-performance library (active development continues privately)
   - **Distributed Instant Messaging System** — Full-stack C++17 system with Boost.Asio + gRPC
+
 - 🌱 Currently learning **Photon Mapping**
+
 - 👨‍💻 All projects: [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
+
 - 💬 Ask me about: **Vulkan 1.3, CUDA kernels, SIMD intrinsics, lock-free data structures, Nsight profiling, soft rasterizer, path tracing, memory ordering**
+
 ---
+
 ### 🛠️ Languages and Tools
+
 **Primary:**
+
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;
@@ -31,7 +43,9 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
 </p>
+
 **Also experienced with:**
+
 <p align="left">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;
@@ -52,22 +66,29 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
   <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>&nbsp;
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
+
 ---
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github_dark" alt="profile-details" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&theme=github_dark&hide_border=true" alt="stats" height="180"/>
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&layout=compact&theme=github_dark&hide_border=true" alt="top-langs" height="180"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liupeter01&theme=github-dark-blue&hide_border=true" alt="streak" />
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=liupeter01&theme=darkhub&no-frame=true&column=7" alt="trophies" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=liupeter01&theme=github-compact&hide_border=true" alt="activity-graph" />
 </p>
