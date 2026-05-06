@@ -58,10 +58,9 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github_dark" alt="profile-details" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&layout=donut&theme=github_dark&hide_border=true&hide_title=true" alt="top-langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&theme=github_dark&hide_border=true" alt="stats" height="180"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&layout=compact&theme=github_dark&hide_border=true" alt="top-langs" height="180"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=liupeter01&theme=github-dark-blue&hide_border=true" alt="streak" />
