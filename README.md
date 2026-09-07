@@ -92,11 +92,3 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
 <p align="center">
   <img src="https://ghchart.xqsit94.in/dark:default/Liupeter01" alt="GitHub Contribution Calendar" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liupeter01&theme=darkhub&no-frame=true&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=liupeter01&theme=github-compact&hide_border=true" alt="activity-graph" />
-</p>
