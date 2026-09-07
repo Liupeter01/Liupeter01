@@ -72,17 +72,25 @@ I build from hardware memory hierarchy, cache behavior, and lock-free structures
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&theme=github_dark" alt="profile-details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&amp;theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liupeter01&show_icons=true&theme=github_dark&hide_border=true" alt="stats" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Liupeter01&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=liupeter01&show_icons=true&layout=compact&theme=github_dark&hide_border=true" alt="top-langs" height="180"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liupeter01&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most Used Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=liupeter01&theme=github-dark-blue&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liupeter01&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Liupeter01&amp;theme=darkhub&amp;no-frame=true&amp;column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.xqsit94.in/dark:default/Liupeter01" alt="GitHub Contribution Calendar" width="100%" />
 </p>
 
 <p align="center">
