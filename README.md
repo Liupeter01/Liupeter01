@@ -1,94 +1,85 @@
 <h1 align="center">Hi 👋, I'm L00pback4o4</h1>
-<h3 align="center">A passionate Software Engineer from Australia</h3>
+<h3 align="center">C++17 · Graphics · GPU Computing · Systems Performance</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=liupeter01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/liupeter01?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/liupeter01?label=Stars&style=social" alt="stars" />
+  <a href="https://github.com/Liupeter01?tab=repositories">Projects</a>
+  · <a href="https://github.com/Liupeter01/Vulkan-Platform">Vulkan</a>
+  · <a href="https://github.com/Liupeter01/coreforge">CoreForge</a>
+  · <a href="https://github.com/Liupeter01/Software-Rasterizer">CPU Rendering</a>
 </p>
 
----
+### About me
 
-### About Me
+I'm Jonathan (Peiheng) Liu, a C++ programmer focused on **rendering, CPU/GPU performance and concurrent systems**. I work from data layout and memory hierarchy through explicit synchronisation, resource lifetime and profiler-guided optimisation.
 
-Passionate about **low-level systems, real-time rendering, and extreme performance optimization**.  
-I build from hardware memory hierarchy, cache behavior, and lock-free structures all the way up to **Vulkan 1.3 multi-queue asynchronous engines**, custom GPU kernels, and CPU vectorized path tracers.
+My projects include a Vulkan renderer, a portable CPU rasterizer/path tracer, CUDA sorting kernels, and asynchronous C++ services. I'm interested in **graphics, GPU computing and low-latency systems roles**, including trading infrastructure—not claiming production trading-system experience.
 
-- 🔭 Currently working on:
-  - **Vulkan-Platform** — Modern C++17 Vulkan 1.3 rendering engine with multi-queue async submission, GPU-driven particles, and Nsight-driven optimizations
-  - **libHPC** (Technical Preview, Archived for reference) — SIMD + CUDA + lock-free high-performance library (active development continues privately)
-  - **Distributed Instant Messaging System** — Full-stack C++17 system with Boost.Asio + gRPC
+### Selected projects
 
-- 🌱 Currently learning **Photon Mapping**
+#### [Vulkan-Platform](https://github.com/Liupeter01/Vulkan-Platform) — asynchronous rendering & resource lifetime
 
-- 👨‍💻 All projects: [https://github.com/Liupeter01?tab=repositories](https://github.com/Liupeter01?tab=repositories)
+- Replaced blocking, repeated uploads with state-driven residency, asynchronous transfer submission and completion-gated reclamation; historical same-scene **worst-case frame time fell from 424 to 4.66 ms (~91×)**.
+- Built graphics/compute/transfer execution paths using timeline semaphores, per-frame contexts and explicit resource dependencies; inspected execution with **Nsight Graphics, RenderDoc and Vulkan validation layers**.
+- Implemented GPU-resident simulation for **16,384 particles**, with 64 × 256-thread workgroups and ping-pong buffers.
 
-- 💬 Ask me about: **Vulkan 1.3, CUDA kernels, SIMD intrinsics, lock-free data structures, Nsight profiling, soft rasterizer, path tracing, memory ordering**
+*Timing scope: historical RTX 3080 Ti Laptop GPU, Windows/MSVC Release; validation disabled for timing. The 91× figure compares worst-case upload-path frame times, not steady-state FPS.*
 
----
+#### [CoreForge](https://github.com/Liupeter01/coreforge) — CPU/GPU performance engineering
 
-### 🛠️ Languages and Tools
+**CoreForge replaces the earlier libHPC name.** The project combines CPU memory-access experiments, CUDA kernels, sparse storage and concurrent-container prototypes.
 
-**Primary:**
+| Workload | Baseline → optimised | What changed |
+| --- | ---: | --- |
+| 1024² FP32 matrix multiplication | **97.93 → 11.58 ms (8.46×)** | Reordered strided inner-loop accesses; 32-column OpenMP blocks |
+| 8192² transpose | **63.28 → 19.58 ms (3.23×)** | 64 × 64 cache tiles |
+| 8192² horizontal 17-tap blur | **15.72 → 3.46 ms (4.55×)** | Tiling and prefetching |
+| Xyx vertical-blur family | **25.74 → 15.91 ms (1.62×)** | SIMD, prefetching and interleaved accumulators |
+| 1024² convolution, 16² kernel | **111.08 → 42.55 ms (2.61×)** | 16 × 16 output tiles; four independent reduction chains |
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.nvidia.com/cuda-toolkit" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="cuda" height="28"/></a>&nbsp;
-  <a href="https://www.vulkan.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="vulkan" height="28"/></a>&nbsp;
-  <a href="https://cmake.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="cmake" height="28"/></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>&nbsp;
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>&nbsp;
-  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/></a>
-</p>
+*CPU scope: Apple M5 Pro, macOS arm64 Release, 10-run wall-time medians with random interleaving, 7 October 2026. OpenMP uses 15 threads; convolution is single-threaded. Xyx is compared with its own baseline; a y-major tiled vertical variant was faster at 12.34 ms. These are comparisons with my own implementations, not vendor BLAS.*
 
-**Also experienced with:**
+- Built a **four-pass, 256-bin CUDA radix sort** using warp ballot/match/shuffle primitives, padded shared-memory paths and a custom hierarchical scan: **500M uint32 keys in 360 ms aggregate kernel time (~1.39B keys/s)** on an RTX 3080 Ti Laptop GPU. This historical result is kernel-only, not end-to-end transfer/allocation time.
+- Benchmarked a bounded ring and an allocating reference-counted linked queue over **100M handoffs**. The ring reached median **14.4M / 10.9M / 4.80M handoffs/s** at 1P1C / 2P2C / 4P4C in ten M5 Pro Release runs.
+- In a separate **4P4C open-loop** test at **1M handoffs/s offered load**, ring/linked **p99 was 667 ns / 3.63 µs**, with p99.9 of 64.83 / 439.50 µs (999K samples). Latency runs from planned push time to consumer completion and includes producer lateness/backpressure; it is not one queue-call latency.
+- Used **TSan, ASan/LLDB, UBSan and happens-before analysis** to repair observed lost-item, signed-shift and reclamation defects. Fixes included consumed-state marking, correct loser-node release, identity-aware empty-pop rollback and unique deletion ownership.
+- Added count/checksum checks to timing tests and unique-value checks to regressions; **19 matrix/blur/transpose/convolution variants passed numerical checks** on the benchmark inputs. Passing tests are evidence for exercised cases, not a general race/ABA-freedom proof.
 
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>&nbsp;
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>&nbsp;
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>&nbsp;
-  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/></a>&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-</p>
+#### [Software-Rasterizer](https://github.com/Liupeter01/Software-Rasterizer) — portable CPU rasterization & path tracing
 
----
+- Reorganised triangle traversal into **32 × 32 framebuffer tiles** and added portable **SIMDe eight-pixel batches** for depth interpolation and perspective-correct weights. Coverage tests and fragment shading are not claimed to be fully vectorised.
+- Same-machine scalar/SIMDe comparison: **median draw time 10.866 → 7.790 ms**, a **28.3% reduction (1.395×)** at 1024 × 1024. SIMDe **p95 / p99: 8.487 / 9.406 ms** over 3,000 measured frames.
+- Built BVH-based Monte Carlo path tracing with next-event estimation, cosine-weighted sampling, Russian roulette and mirror/dielectric materials.
+- Added **21 regression cases** covering geometry, visibility, interpolation, scalar/SIMDe agreement, sampling and light transport.
 
-### 📊 GitHub Stats
+*Recorded 9 October 2026: Apple M5 Pro, macOS arm64 Release, TBB disabled/serial scheduling, portable ARM SIMD. Static Spot mesh, 5,856 input triangles, Phong shading, 13.9% pixel coverage at 1024²; 100 warm-up frames per mode per run. Timing surrounds draw(), excludes loading/display/file output, and is not full-application FPS. Older Intel figures are not this comparison's baseline. [Method and conditions](https://github.com/Liupeter01/Software-Rasterizer#0x05-benchmarks).*
+
+#### [DIMS](https://github.com/Liupeter01/Distributed-Instant-Messaging-System-Development) — asynchronous C++ messaging
+
+- Built Boost.Asio TCP services, gRPC communication, a custom TLV binary protocol, a Qt client and connection-lifecycle management.
+- Historical **isolated TCP-layer** benchmark: **50,000 concurrent loopback connections**, **42.8K request-response exchanges/s**, **p50 / p99 RTT of 0.93 / 5.44 ms**, with no failed exchanges observed in the 17.9M-exchange run.
+- These are connection-layer loopback results—not full-service throughput, one-way message rate or production-network latency.
+
+**Other systems work:** ARMv8-A bare-metal bring-up on Cortex-A72/Raspberry Pi 4B: assembly entry, MMU mappings, timer/UART exceptions and cooperative context switching, debugged with GDB/OpenOCD and UART traces.
+
+### Tools I use
+
+- **Languages:** C++17 (primary), C, CUDA C/C++, GLSL/Slang, Python, ARM assembly.
+- **Graphics & compute:** Vulkan 1.3, SPIR-V, SIMDe/SSE/AVX2, CUDA warp primitives, oneTBB, OpenMP.
+- **Concurrency & networking:** std::atomic, CAS, reference-counted/hazard-pointer experiments, Boost.Asio, gRPC/Protobuf.
+- **Measurement & debugging:** Google Benchmark, perf, Nsight Systems/Compute/Graphics, RenderDoc, ASan/TSan/UBSan, GDB/LLDB.
+- **Build & systems:** Linux, CMake, Git, Docker; Redis/MySQL and Qt in the messaging project.
+
+### Engineering approach
+
+**Reproduce → measure → explain → change → validate.**
+
+I keep workload size, hardware, timing boundaries and comparison baselines next to performance claims. Throughput, tail latency, numerical correctness and memory-lifetime checks answer different questions; I test them separately.
+
+<details>
+<summary>GitHub activity</summary>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&amp;theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Liupeter01&amp;theme=github_dark" alt="GitHub activity summary for Liupeter01" loading="lazy" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Liupeter01&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub Stats" height="180" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Liupeter01&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most Used Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Liupeter01&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=Liupeter01&amp;theme=darkhub&amp;no-frame=true&amp;column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.xqsit94.in/dark:default/Liupeter01" alt="GitHub Contribution Calendar" width="100%" />
-</p>
+</details>
