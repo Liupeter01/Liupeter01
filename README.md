@@ -10,7 +10,7 @@
 
 ### About me
 
-I'm Jonathan (Peiheng) Liu, a C++ programmer focused on **rendering, CPU/GPU performance and concurrent systems**. I work from data layout and memory hierarchy through explicit synchronisation, resource lifetime and profiler-guided optimisation.
+I'm Jonathan Liu, a C++ programmer focused on **rendering, CPU/GPU performance and concurrent systems**. I work from data layout and memory hierarchy through explicit synchronisation, resource lifetime and profiler-guided optimisation.
 
 My projects include a Vulkan renderer, a portable CPU rasterizer/path tracer, CUDA sorting kernels, and asynchronous C++ services. I'm interested in **graphics, GPU computing and low-latency systems roles**, including trading infrastructure—not claiming production trading-system experience.
 
